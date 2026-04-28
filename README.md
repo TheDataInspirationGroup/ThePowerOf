@@ -1,7 +1,7 @@
 # ThePowerOf
 An education focussed project to develop core data literacy and AI awareness to students across secondary education. 
 
-Introducing “The Power Of” Career Resources 
+# H1 Introducing “The Power Of” Career Resources
 
 Executive Summary 
 
