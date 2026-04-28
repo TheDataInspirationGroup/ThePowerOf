@@ -26,6 +26,7 @@ Has provided valuable input, helping shape how the project connects with school 
 The proposal has also been informed through discussions with Mike Smith, who reinforced the importance of skills such as asking questions, storytelling, and communication alongside technical knowledge. Together, this reflects a project that is well-informed, and collaborative. 
 
 Problem Definition 
+
 We live in a world where data plays a key role in decision-making across business, healthcare, government, and everyday life. Despite this, data education and awareness of data-related careers in UK secondary schools is very limited. Students are making important decisions about their future without understanding how their skills connect to data-driven careers. Many believe that these careers are only for those strong in maths or coding, which creates unnecessary barriers. 
 
 This gap affects both students and educators. Students interact with data every day—through streaming recommendations, social media, and gaming—yet they do not recognise the skills they are using, such as identifying patterns, making decisions, and asking questions. Educators already use data in their roles but often lack confidence in teaching these skills explicitly or linking them to careers. 
