@@ -12,15 +12,19 @@ The pilot will introduce the first two parts of the programme—focusing on aski
 This project is supported by a team with strong experience across education, industry, and careers networks. 
 
 Rachel Keane, Founder, Data Inspiration Group Ltd [Digdata](https://digdata.online)
+
 Leads the project and brings extensive experience working with educators across a national network to build data with AI awareness. Through partnerships with schools, careers networks, and leading employers, she has designed and delivered initiatives that connect classroom learning to real-world industry, helping young people understand and confidently apply data skills in their future careers. 
 
 Suzanne Cray, Founder, Learn2Flourish 
+
 Contributes deep expertise from her background as a teacher, careers leader, and Assistant Head, alongside her work designing practical data literacy, maths and career classroom resources. 
 
 Baron Miles, Strategic Careers Lead, Aspirations Academies Trust 
+
 Leads on the strategic implementation and piloting of the project across a network of 9 secondary schools, ensuring materials are tested, refined, and impactful in real classroom settings. Drawing on extensive experience in careers education and alignment with the Gatsby Benchmarks, he works closely with educators and employer partners to embed meaningful, industry-linked learning experiences. Through this work, he supports the development of high quality resources that help young people build the knowledge, skills, and confidence needed to succeed in their future careers.   
 
 Clare Parker, Education Manager, Careers & Enterprise Company 
+
 Has provided valuable input, helping shape how the project connects with school networks. Leveraging her national network of Careers Enterprise Coordinators, she will play a key role in driving school engagement and supporting the scalable rollout of the programme across multiple regions. 
 
 The proposal has also been informed through discussions with Mike Smith, who reinforced the importance of skills such as asking questions, storytelling, and communication alongside technical knowledge. Together, this reflects a project that is well-informed, and collaborative. 
