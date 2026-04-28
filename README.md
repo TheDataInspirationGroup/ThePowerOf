@@ -11,7 +11,7 @@ The pilot will introduce the first two parts of the programme—focusing on aski
 
 This project is supported by a team with strong experience across education, industry, and careers networks. 
 
-Rachel Keane, Founder, Data Inspiration Group Ltd (Digdata) 
+Rachel Keane, Founder, Data Inspiration Group Ltd [Digdata](https://digdata.online)
 Leads the project and brings extensive experience working with educators across a national network to build data with AI awareness. Through partnerships with schools, careers networks, and leading employers, she has designed and delivered initiatives that connect classroom learning to real-world industry, helping young people understand and confidently apply data skills in their future careers. 
 
 Suzanne Cray, Founder, Learn2Flourish 
@@ -33,9 +33,9 @@ This gap affects both students and educators. Students interact with data every 
 
 As AI tools become more accessible, there is a growing risk that outputs are accepted without question. Without data and AI literacy, it becomes difficult to sense-check results, identify bias, or understand whether an answer is correct. Building these skills early enables students and educators to move from simply using tools to questioning and understanding them. 
 
-This contributes to a wider skills gap, with data and digital skill shortages costing the UK economy an estimated £63 billion each year. Addressing this issue helps students recognise their strengths, build confidence, and understand how their skills apply across many careers, while equipping educators to connect learning to real-world applications. 
+This contributes to a wider skills gap, with [data and digital skill shortages](https://commonslibrary.parliament.uk/research-briefings/cdp-2024-0073/) costing the UK economy an estimated £63 billion each year. Addressing this issue helps students recognise their strengths, build confidence, and understand how their skills apply across many careers, while equipping educators to connect learning to real-world applications. 
 
-Existing Digdata career challenges have demonstrated strong student engagement but have not yet been embedded into everyday teaching or reached enough educators. The Power Of! builds on this by focusing on educator confidence first, enabling consistent and scalable delivery across schools. 
+Existing [Digdata career challenges](https://digdata.online/library-resource/) have demonstrated strong student engagement but have not yet been embedded into everyday teaching or reached enough educators. The Power Of! builds on this by focusing on educator confidence first, enabling consistent and scalable delivery across schools. 
 
 Our Proposal 
 
